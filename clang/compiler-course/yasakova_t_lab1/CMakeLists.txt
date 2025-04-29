@@ -1,6 +1,6 @@
 set(Title "PrintData")
 set(Student "Yasakova_Tatiana")
-set(Group "FIIT1")
+set(Group "FIIT2")
 set(TARGET_NAME "${Title}_${Student}_${Group}_ClangAST")
 
 file(GLOB_RECURSE SOURCES *.cpp *.h *.hpp)
